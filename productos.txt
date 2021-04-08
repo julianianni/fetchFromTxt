@@ -1,0 +1,26 @@
+[
+	{
+		"title": "Anteojos",
+		"price": 123,
+		"thumbnail": "www.test1.com",
+		"id": 1
+	},
+	{
+		"title": "libro",
+		"price": 12.5,
+		"thumbnail": "www.test2.com",
+		"id": 2
+	},
+	{
+		"title": "Lapiz",
+		"price": 30,
+		"thumbnail": "www.test3.com",
+		"id": 3
+	},
+	{
+		"title": "Alfajor",
+		"price": 20,
+		"thumbnail": "www.test4.com",
+		"id": 4
+	}
+]
